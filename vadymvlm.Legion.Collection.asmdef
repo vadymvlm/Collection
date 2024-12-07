@@ -1,0 +1,14 @@
+{
+    "name": "vadymvlm.Collection",
+    "rootNamespace": "vadymvlm.Legion.Collection",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "github.vadymvlm.collection",
+  "displayName": "vadymvlm.Collection",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "description": "vadymvlm.Collection",
+  "author": {
+    "name": "vadymvlm",
+    "email": "vadymvarlamov@gmail.com",
+    "url": "https://github.com/vadymvlm"
+  },
+  "documentationUrl": "https://github.com/vadymvlm/collection/wiki",
+  "type": "library",
+  "license" : "MIT",
+  "dependencies": {},
+  "hideInEditor": false
+}
